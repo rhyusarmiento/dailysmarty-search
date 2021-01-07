@@ -1,3 +1,25 @@
 body {
   margin: 0px;
 }
+
+.content-wrapper {
+  width: 70%;
+  margin: 0px auto;
+}
+
+.logo {
+  width: 100px;
+  margin: 100px auto;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.search div {
+  justify-items: right;
+}
+
+.search input {
+  width: 100%;
+}
